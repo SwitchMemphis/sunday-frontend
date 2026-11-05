@@ -1,0 +1,77 @@
+@font-face {
+  font-family: Montserrat;
+  src: url('/assets/sol/montserrat-latin.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+}
+
+:root {
+  --sol-cream: #e0d6c8;
+  --sol-brown: #684936;
+  --sol-petrol: #3f555b;
+}
+
+html body {
+  background-color: var(--sol-cream);
+  color: var(--sol-brown);
+  font-family: Montserrat, Arial, sans-serif;
+}
+
+html body :is(h1, h2, h3) {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sol-signature {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: currentColor;
+  mask: url('/assets/sol/signature.png') center / contain no-repeat;
+}
+
+.sunday-logo .sol-signature {
+  width: 48px;
+  height: 36px;
+}
+
+html body #tbp_footer .sunday-footer-wordmark .sol-signature {
+  width: 85px;
+  height: 72px;
+  color: var(--sol-cream);
+}
+
+.srg-logo-text .sol-signature {
+  width: 105px;
+  height: 90px;
+  margin-inline: auto;
+}
+
+html body.home .module_row.tb_zvs8154::before {
+  background: linear-gradient(90deg, #293e44f2, #293e4499 53%, #293e441f 85%) !important;
+}
+
+@media (max-width: 767px) {
+  html body.home .module_row.tb_zvs8154::before {
+    background: linear-gradient(180deg, #293e44cc, #293e4433 45%, #293e44ed) !important;
+  }
+}
+
+/* Captured templates set explicit display fonts at these entry points. */
+html body.home #pagewrap#pagewrap .sunday-order-story--progressive .sunday-story-heading h2,
+html body.sunday-commerce--archive #sunday-shop-editorial-title,
+html body.sunday-commerce--archive .sunday-shop-featured-product__copy h2,
+html body #sunday-product-title {
+  font-family: "Times New Roman", Times, serif !important;
+  font-weight: 400 !important;
+  letter-spacing: -.02em !important;
+}
+
+html body.home #pagewrap#pagewrap .sunday-order-story--progressive .sunday-story-heading h2 {
+  color: var(--sol-brown) !important;
+}
+
+html body .sunday-shop-editorial-hero {
+  background-image: linear-gradient(90deg, #293e44f0, #293e4466),
+    var(--sunday-shop-editorial-image) !important;
+}

@@ -53,3 +53,12 @@ The content security policy blocks external scripts, network submissions and rem
 Sunday brand assets and public content remain the source owner's materials. User-supplied original theme code and live assets were used for the requested design recreation. Font license notices are included in `docs/font-licenses/`. No claim of transferring third-party rights is made.
 
 See `PROJECT-STATUS.md` and `docs/QA.md` for actual checks and limitations.
+
+## SOL design branch
+
+On `sol-reskin`, the standard build applies the SOL brand palette, typography,
+signature, and selected photography to the existing page templates. The SOL
+stylesheet lives in `public/sol.css`, and `scripts/sol-theme.mjs` applies the
+palette to the captured theme during the build. The product cards use SOL
+photography where the brand book includes a matching product and strength.
+Other product photography and the existing demo shopping flow are retained.
