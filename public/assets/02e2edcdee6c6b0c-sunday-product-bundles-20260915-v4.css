@@ -1,0 +1,252 @@
+/* Product Bundles: compact, responsive configurator inside the Sunday summary. */
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+
+body.sunday-commerce--single .sunday-bundle-item__eyebrow {
+  display: block;
+  margin: 0 0 5px;
+  color: #6c7c70;
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form > .bundled_products {
+  display: grid !important;
+  width: 100%;
+  grid-template-columns: minmax(0, 1fr) !important;
+  gap: 10px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  list-style: none !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product {
+  display: grid !important;
+  width: 100% !important;
+  min-height: 0 !important;
+  grid-template-columns: 78px minmax(0, 1fr) !important;
+  align-items: start;
+  gap: 13px;
+  margin: 0 !important;
+  padding: 13px !important;
+  border: 1px solid #dde5d9 !important;
+  border-radius: 18px;
+  background: #fbfcf8;
+  box-shadow: none !important;
+  text-align: left !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_images,
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_images figure {
+  width: 78px !important;
+  height: 78px !important;
+  margin: 0 !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_images figure {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+  background: #eef2e9;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_images img {
+  width: 100% !important;
+  height: 100% !important;
+  margin: 0 !important;
+  object-fit: contain;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_images .woocommerce-product-gallery__trigger,
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_permalink {
+  display: none !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .details {
+  width: auto !important;
+  min-width: 0;
+  margin: 0 !important;
+  padding: 1px 0 0 !important;
+  text-align: left !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_title {
+  margin: 0 0 7px !important;
+  color: #173e29;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 20px !important;
+  font-weight: 400 !important;
+  line-height: 1.08;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_excerpt {
+  display: none !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_item_cart_content,
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product .cart,
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_item_wrap,
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_item_cart_details {
+  width: 100% !important;
+  min-height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form table.variations {
+  width: 100%;
+  margin: 0 !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form table.variations .label {
+  display: none !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form table.variations select {
+  display: block !important;
+  width: 100% !important;
+  height: 42px;
+  margin: 0 !important;
+  padding: 0 38px 0 13px;
+  border: 1px solid #bccbbb;
+  border-radius: 12px;
+  color: #203c2a;
+  background-color: #fff;
+  box-shadow: none;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form table.variations select.sunday-product-native-select {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  opacity: 0 !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .reset_variations {
+  display: none !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .sunday-bundle-variation-control {
+  min-height: 0;
+  margin: 5px 0 8px;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .sunday-product-variation-label {
+  margin-bottom: 9px;
+  text-align: left;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .sunday-product-variation-buttons {
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .sunday-product-variation-buttons button {
+  min-height: 38px;
+  padding: 0 13px;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .woocommerce-variation.single_variation {
+  display: block !important;
+  min-height: 0;
+  margin: 6px 0 0;
+  padding: 0;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_item_cart_details > .price,
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .woocommerce-variation-price .price {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px;
+  margin: 4px 0 0;
+  color: #173e29;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .price del {
+  color: #89948c;
+  font-weight: 500;
+  opacity: 1;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .price ins {
+  color: #173e29;
+  text-decoration: none;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product p.stock {
+  display: none !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundle_data {
+  width: 100%;
+  margin: 13px 0 0 !important;
+  padding: 15px 0 0 !important;
+  border-top: 1px solid #dfe6dc;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundle_price .price {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px;
+  margin: 0 0 11px;
+  color: #173e29;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.15;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundle_price {
+  display: none !important;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundle_wrap > .sunday-product-summary__availability {
+  width: 100%;
+  margin: 0 0 12px;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundle_button,
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundle_button .single_add_to_cart_button {
+  width: 100%;
+}
+
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundle_error,
+body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundle_availability {
+  margin: 0 0 10px;
+  color: #526158;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+@media (max-width: 420px) {
+  body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product {
+    grid-template-columns: 64px minmax(0, 1fr) !important;
+    gap: 11px;
+    padding: 11px !important;
+  }
+
+  body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_images,
+  body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_images figure {
+    width: 64px !important;
+    height: 64px !important;
+  }
+
+  body.sunday-commerce--single .sunday-product-summary__purchase form.bundle_form .bundled_product_title {
+    font-size: 18px !important;
+  }
+}

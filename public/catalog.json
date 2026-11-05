@@ -1,0 +1,362 @@
+[
+  {
+    "id": "271",
+    "name": "TRZ",
+    "url": "/product/research-trz/",
+    "image": "/assets/6b86f920d8f5d52b-codex-clipboard-10a33e99-3950-4383-addb-6c1135f4cdf4.png",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial glps"
+  },
+  {
+    "id": "269",
+    "name": "RT",
+    "url": "/product/research-rt/",
+    "image": "/assets/6d8ca27008a3645c-rt-10mg.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial glps laura"
+  },
+  {
+    "id": "14243",
+    "name": "WOLVERINE",
+    "url": "/product/wolverine-2/",
+    "image": "/assets/c1e231eabbf0eb09-wolv10mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>89.00</span></div>",
+    "price": "$ 89.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "275",
+    "name": "Selank",
+    "url": "/product/research-slk/",
+    "image": "/assets/1bba12567c6ff6a1-selank10mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>150.00</span></del> <span class=\"screen-reader-text\">Original price was: $150.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>74.00</span></ins><span class=\"screen-reader-text\">Current price is: $74.00.</span></div>",
+    "price": "$ 150.00 Original price was: $150.00. $ 74.00 Current price is: $74.00.",
+    "categories": "200 all-products bogo-100-vials free-vial nootropic"
+  },
+  {
+    "id": "276",
+    "name": "Semax",
+    "url": "/product/research-smx/",
+    "image": "/assets/874e0f16a5274dca-semax10mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>150.00</span></del> <span class=\"screen-reader-text\">Original price was: $150.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>74.00</span></ins><span class=\"screen-reader-text\">Current price is: $74.00.</span></div>",
+    "price": "$ 150.00 Original price was: $150.00. $ 74.00 Current price is: $74.00.",
+    "categories": "200 all-products bogo-100-vials free-vial nootropic"
+  },
+  {
+    "id": "278",
+    "name": "Sermorelin",
+    "url": "/product/research-srm/",
+    "image": "/assets/bc96a3b99f5435c0-codex-clipboard-48a215c8-3bd9-46d6-b660-56a9d286d148.png",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial laura regeneration"
+  },
+  {
+    "id": "8162",
+    "name": "MOTS-C",
+    "url": "/product/research-mtc/",
+    "image": "/assets/5860da7981f37f39-motsc-10mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "273",
+    "name": "GLOW",
+    "url": "/product/research-glw/",
+    "image": "/assets/ac5619d2517d27a2-glowmgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial regeneration"
+  },
+  {
+    "id": "274",
+    "name": "NAD",
+    "url": "/product/research-nad/",
+    "image": "/assets/7b327138ab9cbd87-nad-500mg.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>150.00</span></del> <span class=\"screen-reader-text\">Original price was: $150.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>74.00</span></ins><span class=\"screen-reader-text\">Current price is: $74.00.</span></div>",
+    "price": "$ 150.00 Original price was: $150.00. $ 74.00 Current price is: $74.00.",
+    "categories": "200 all-products bogo-100-vials free-vial nootropic"
+  },
+  {
+    "id": "8242",
+    "name": "Cagrilintide",
+    "url": "/product/research-cgr/",
+    "image": "/assets/ce19094c5b9726ad-cagrilintide-10mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "347",
+    "name": "Tesamorelin",
+    "url": "/product/research-tsm/",
+    "image": "/assets/63dc88c57ada8a76-tesamorelin-10mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial regeneration"
+  },
+  {
+    "id": "8863",
+    "name": "LIPO-C",
+    "url": "/product/lipo-c/",
+    "image": "/assets/0325129f05b7b33d-lipo-c-10mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "free-vial"
+  },
+  {
+    "id": "8160",
+    "name": "Kisspeptin",
+    "url": "/product/research-ksp/",
+    "image": "/assets/25333bb01a2c4995-kisspeptin-10mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "272",
+    "name": "KLOW",
+    "url": "/product/research-klw/",
+    "image": "/assets/4f31f1d5f1a8127a-klowmgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial laura regeneration"
+  },
+  {
+    "id": "8243",
+    "name": "Thymosin Alpha-1",
+    "url": "/product/research-ta1/",
+    "image": "/assets/9561369a1a64b756-thymosin-10mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "65",
+    "name": "BAC Water",
+    "url": "/product/research-bcw/",
+    "image": "/assets/ab4eab8b3ba0e5ef-bac-water-mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>20.00</span></del> <span class=\"screen-reader-text\">Original price was: $20.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>9.00</span></ins><span class=\"screen-reader-text\">Current price is: $9.00.</span></div>",
+    "price": "$ 20.00 Original price was: $20.00. $ 9.00 Current price is: $9.00.",
+    "categories": ""
+  },
+  {
+    "id": "8418",
+    "name": "Epitalon",
+    "url": "/product/research-ept/",
+    "image": "/assets/bcbd1c4205c940d7-epitalon-50mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "277",
+    "name": "IPA / CJC - NO DAC",
+    "url": "/product/research-ipm/",
+    "image": "/assets/d4fd44b0a9f24d38-ipa-mgs.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "200 all-products bogo-100-vials free-vial regeneration"
+  },
+  {
+    "id": "14242",
+    "name": "BPC-157",
+    "url": "/product/bpc-157/",
+    "image": "/assets/f6c7977712c8fd52-Sunday-BPC-157-10mg-Website-Hero.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></div>",
+    "price": "$ 99.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "14244",
+    "name": "CJC-1295",
+    "url": "/product/cjc-1295/",
+    "image": "/assets/c98d8b36945f1fe4-Sunday-CJC-1295-No-DAC-10mg-Website-Hero.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></div>",
+    "price": "$ 99.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "14245",
+    "name": "DSIP",
+    "url": "/product/dsip/",
+    "image": "/assets/2ced4431843bd93b-Sunday-DSIP-10mg-Website-Hero.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>89.00</span></div>",
+    "price": "$ 89.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "14246",
+    "name": "GHK-Cu",
+    "url": "/product/ghk-cu/",
+    "image": "/assets/13b987cc7b3ed260-Sunday-GHK-CU-10mg-Website-Hero.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>75.00</span></div>",
+    "price": "$ 75.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "14248",
+    "name": "Ipamorelin",
+    "url": "/product/ipa-research/",
+    "image": "/assets/11e51a05b2587afd-Sunday-Ipamorelin-10mg-Website-Hero.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></div>",
+    "price": "$ 99.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "14249",
+    "name": "KPV",
+    "url": "/product/kpv-research/",
+    "image": "/assets/ae273d95a2f3f099-Sunday-KPV-10mg-Website-Hero.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>95.00</span></div>",
+    "price": "$ 95.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "14250",
+    "name": "Melanotan 1",
+    "url": "/product/mela-1-research/",
+    "image": "/assets/50bab5f5383b4f1f-Sunday-Melanotan-1-10mg-Website-Hero.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>89.00</span></div>",
+    "price": "$ 89.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "14251",
+    "name": "Melanotan 2",
+    "url": "/product/mela-2-research/",
+    "image": "/assets/f27c322b4a23635f-Sunday-Melanotan-2-10mg-Website-Hero.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>89.00</span></div>",
+    "price": "$ 89.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "14252",
+    "name": "PT-141",
+    "url": "/product/pt-141/",
+    "image": "/assets/f3a963aeb10258aa-Sunday-PT-141-10mg-Website-Hero.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>89.00</span></div>",
+    "price": "$ 89.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "739",
+    "name": "SHED",
+    "url": "/product/research-shd/",
+    "image": "/assets/0848427dc37ba8fd-sunday-v3-research-shd-shed-trz40mg-rt20mg.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>350.00</span></div>",
+    "price": "$ 350.00",
+    "categories": "all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "14253",
+    "name": "SS-31",
+    "url": "/product/ss-31/",
+    "image": "/assets/ac6d9037b1ce9c2c-Sunday-SS-31-10mg-Website-Hero.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></div>",
+    "price": "$ 99.00",
+    "categories": "200 all-products bogo-100-vials free-vial"
+  },
+  {
+    "id": "12917",
+    "name": "GHK-CU Dissolvable Strips",
+    "url": "/product/ghk-cu-dissolvable-strips/",
+    "image": "/assets/8c088b1d1a8a350e-Sunday-GHK-CU-dissolvable-strip-box-2.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>199.00</span></div>",
+    "price": "$ 199.00",
+    "categories": "melting-strips free-vial"
+  },
+  {
+    "id": "12914",
+    "name": "NAD+ Dissolvable Strips",
+    "url": "/product/nad-dissolvable-strips/",
+    "image": "/assets/fbb4611d1054378b-Sunday-NAD-oral-strips-box-3.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>199.00</span></div>",
+    "price": "$ 199.00",
+    "categories": "melting-strips free-vial"
+  },
+  {
+    "id": "12908",
+    "name": "RT Dissolvable Strips",
+    "url": "/product/rt-dissolvable-strips/",
+    "image": "/assets/aed1f1f7e02ca9f4-Sunday-RT-dissolvable-strips-box-4.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>249.00</span></div>",
+    "price": "$ 249.00",
+    "categories": "melting-strips free-vial"
+  },
+  {
+    "id": "12911",
+    "name": "TRZ Dissolvable Strips",
+    "url": "/product/trz-dissolvable-strips/",
+    "image": "/assets/ed839a61f8940daf-TIRZ-mint-dissolvable-strips-box-5.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>249.00</span></div>",
+    "price": "$ 249.00",
+    "categories": "melting-strips free-vial"
+  },
+  {
+    "id": "12919",
+    "name": "Wolverine Dissolvable Strips",
+    "url": "/product/wolverine-dissolvable-strips/",
+    "image": "/assets/50b995bee57d6d28-Sunday-Wolverine-strips-on-ivory-backdrop-1.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>199.00</span></div>",
+    "price": "$ 199.00",
+    "categories": "melting-strips free-vial"
+  },
+  {
+    "id": "12902",
+    "name": "Bundle 1",
+    "url": "/product/bundle-1/",
+    "image": "/assets/14d9e3378ef0399b-sunday-bundle-rt-klow-4x5-1.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>400.00</span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>198.00</span></ins><span class=\"screen-reader-text\">Current price is: $198.00.</span></div>",
+    "price": "$ 400.00 Original price was: $400.00. $ 198.00 Current price is: $198.00.",
+    "categories": "bundles free-vial"
+  },
+  {
+    "id": "12945",
+    "name": "Bundle 2",
+    "url": "/product/bundle-2/",
+    "image": "/assets/8bc7bf931e24d4df-sunday-bundle-rt-wolverine-4x5-1.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "bundles free-vial"
+  },
+  {
+    "id": "12952",
+    "name": "Bundle 3",
+    "url": "/product/bundle-3/",
+    "image": "/assets/fe2a7209ceff2cb4-sunday-bundle-rt-cagrilintide-4x5-1.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>400.00</span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>198.00</span></ins><span class=\"screen-reader-text\">Current price is: $198.00.</span></div>",
+    "price": "$ 400.00 Original price was: $400.00. $ 198.00 Current price is: $198.00.",
+    "categories": "bundles free-vial"
+  },
+  {
+    "id": "12959",
+    "name": "Bundle 4",
+    "url": "/product/bundle-4/",
+    "image": "/assets/89c670bac14f8768-sunday-bundle-trz-klow-4x5-1.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>400.00</span></del> <span class=\"screen-reader-text\">Original price was: $400.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>198.00</span></ins><span class=\"screen-reader-text\">Current price is: $198.00.</span></div>",
+    "price": "$ 400.00 Original price was: $400.00. $ 198.00 Current price is: $198.00.",
+    "categories": "bundles free-vial"
+  },
+  {
+    "id": "12965",
+    "name": "Bundle 5",
+    "url": "/product/bundle-5/",
+    "image": "/assets/1b4722d888c749d0-sunday-bundle-trz-wolverine-4x5-1.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>200.00</span></del> <span class=\"screen-reader-text\">Original price was: $200.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>99.00</span></ins><span class=\"screen-reader-text\">Current price is: $99.00.</span></div>",
+    "price": "$ 200.00 Original price was: $200.00. $ 99.00 Current price is: $99.00.",
+    "categories": "bundles free-vial"
+  },
+  {
+    "id": "12971",
+    "name": "Bundle 6",
+    "url": "/product/bundle-6/",
+    "image": "/assets/8987733a86234ce1-sunday-bundle-klow-nad-plus-4x5-1.webp",
+    "priceHtml": "<div class=\"sunday-commerce-card__price\" data-sunday-card-price=\"\"><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>350.00</span></del> <span class=\"screen-reader-text\">Original price was: $350.00.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">$</span>173.00</span></ins><span class=\"screen-reader-text\">Current price is: $173.00.</span></div>",
+    "price": "$ 350.00 Original price was: $350.00. $ 173.00 Current price is: $173.00.",
+    "categories": "bundles free-vial"
+  }
+]

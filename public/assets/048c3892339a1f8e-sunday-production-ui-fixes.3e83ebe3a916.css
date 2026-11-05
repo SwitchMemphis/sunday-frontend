@@ -1,0 +1,156 @@
+/* Sunday production PDP/cart corrections — 2026-10-02. */
+
+/* Keep the approved checkout CTA and suppress WooCommerce's injected View cart link. */
+body.single-product #primary.sunday-product-v4
+  .sunday-product-summary__purchase
+  a.added_to_cart.wc-forward {
+  display: none !important;
+}
+
+/* The purchase row is shorter after the redundant link is removed; keep the
+ * following recommendation section close to the completed two-column block. */
+@media (min-width: 761px) {
+  body.single-product #primary.sunday-product-v4 .sv4-grid {
+    align-items: stretch;
+  }
+
+  body.single-product #primary.sunday-product-v4 .sv4-gallery-column {
+    display: flex;
+    flex-direction: column;
+  }
+
+  body.single-product #primary.sunday-product-v4 .sunday-product-gallery {
+    flex: 1 1 auto;
+    min-height: 0;
+  }
+
+  body.single-product #primary.sunday-product-v4 .sv4-stage {
+    height: 100%;
+    min-height: 0;
+    aspect-ratio: auto;
+  }
+
+  body.single-product
+    #primary.sunday-product-v4
+    .sunday-product-gallery__thumbs {
+    height: 100%;
+    max-height: none;
+  }
+
+  body.single-product #primary.sunday-product-v4 .sv4-recommendations {
+    margin-top: 16px;
+  }
+}
+
+/* Let the desktop left column flow independently from the taller summary rail. */
+@media (min-width: 901px) {
+  body.woocommerce-cart
+    .entry-content
+    > .woocommerce
+    > .sunday-cart-left-column {
+    grid-column: 1;
+    grid-row: 2 / span 2;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-self: start;
+    width: 100%;
+    min-width: 0;
+  }
+
+  body.woocommerce-cart
+    .sunday-cart-left-column
+    > .woocommerce-cart-form,
+  body.woocommerce-cart .sunday-cart-left-column > .cross-sells {
+    width: 100%;
+    min-width: 0;
+    margin: 0 !important;
+  }
+}
+
+/* Keep Update cart present in its native disabled state and match the existing
+ * Apply coupon treatment. WooCommerce enables it after a quantity edit. */
+body.woocommerce-cart
+  .woocommerce-cart-form
+  td.actions
+  button.button[name="update_cart"] {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  min-width: 138px;
+  height: 46px;
+  margin: 0;
+  border-color: var(--sunday-cart-ink, #173f2a) !important;
+  background: var(--sunday-cart-ink, #173f2a) !important;
+  color: #fff !important;
+  line-height: 1.2;
+  white-space: nowrap;
+  opacity: 1;
+}
+
+body.woocommerce-cart
+  .woocommerce-cart-form
+  td.actions
+  button.button[name="update_cart"]
+  * {
+  color: #fff !important;
+}
+
+body.woocommerce-cart
+  .woocommerce-cart-form
+  td.actions
+  button.button[name="update_cart"]:not(:disabled):hover,
+body.woocommerce-cart
+  .woocommerce-cart-form
+  td.actions
+  button.button[name="update_cart"]:not(:disabled):focus-visible {
+  border-color: #245f3c !important;
+  background: #245f3c !important;
+  color: #fff !important;
+}
+
+@media (max-width: 620px) {
+  body.woocommerce-cart
+    .woocommerce-cart-form
+    td.actions
+    button.button[name="update_cart"] {
+    width: 100% !important;
+    min-width: 0;
+  }
+}
+
+/* Apply coupon is the secondary cart action: outlined, transparent and green. */
+body.woocommerce-cart
+  .woocommerce-cart-form
+  td.actions
+  .coupon
+  button.button[name="apply_coupon"] {
+  border-color: var(--sunday-cart-ink, #173f2a) !important;
+  background: transparent !important;
+  color: var(--sunday-cart-ink, #173f2a) !important;
+  transition: none !important;
+}
+
+body.woocommerce-cart
+  .woocommerce-cart-form
+  td.actions
+  .coupon
+  button.button[name="apply_coupon"]
+  * {
+  color: var(--sunday-cart-ink, #173f2a) !important;
+}
+
+body.woocommerce-cart
+  .woocommerce-cart-form
+  td.actions
+  .coupon
+  button.button[name="apply_coupon"]:hover,
+body.woocommerce-cart
+  .woocommerce-cart-form
+  td.actions
+  .coupon
+  button.button[name="apply_coupon"]:focus-visible {
+  border-color: #245f3c !important;
+  background: transparent !important;
+  color: #245f3c !important;
+}

@@ -1,0 +1,32 @@
+/* Final page-canvas treatment.
+   Loaded after every responsive stylesheet so all routes finish in the same
+   black surface as the Home footer, including Mobile Safari's dynamic area. */
+
+@media (max-width: 640px) {
+  html:has(#tbp_footer[data-sunday-footer-ready="true"]),
+  html:has(#tbp_footer[data-sunday-footer-ready="true"]) body,
+  html body:has(#tbp_footer[data-sunday-footer-ready="true"]) #pagewrap#pagewrap {
+    min-height: 100% !important;
+    background: #000 !important;
+    background-color: #000 !important;
+  }
+
+  html body #tbp_footer[data-sunday-footer-ready="true"] {
+    position: relative !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding-bottom: max(20px, env(safe-area-inset-bottom)) !important;
+    overflow: visible !important;
+    background: #000 !important;
+    background-color: #000 !important;
+  }
+
+  html body #tbp_footer[data-sunday-footer-ready="true"] .sunday-footer-shell {
+    position: relative !important;
+    z-index: 1 !important;
+    margin-bottom: 0 !important;
+    padding-bottom: max(16px, env(safe-area-inset-bottom)) !important;
+    background: #000 !important;
+  }
+
+}

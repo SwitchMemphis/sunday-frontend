@@ -1,0 +1,16 @@
+{
+  "name": "sunday-frontend-recreation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sunday frontend design recreation, with local assets and demo-only commerce.",
+  "type": "module",
+  "engines": {
+    "node": ">=20.11"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "<Future at 0x7f1558795550 state=finished raised HTTPError>": "404 Client Error: Not Found for url: https://sunday-usa.com/wp-content/uploads/2025/12/about-page-hero-300x169.jpg",
+  "<Future at 0x7f1569b2c4d0 state=finished raised HTTPError>": "404 Client Error: Not Found for url: https://sunday-usa.com/wp-content/uploads/2025/12/about-page-hero-2048x1152.jpg",
+  "<Future at 0x7f156966f4d0 state=finished raised HTTPError>": "404 Client Error: Not Found for url: https://sunday-usa.com/wp-content/uploads/2025/12/about-page-hero-768x432.jpg",
+  "<Future at 0x7f1569827500 state=finished raised HTTPError>": "404 Client Error: Not Found for url: https://sunday-usa.com/wp-content/uploads/2025/12/about-page-hero-1320x742.jpg",
+  "<Future at 0x7f15698eba10 state=finished raised HTTPError>": "404 Client Error: Not Found for url: https://sunday-usa.com/wp-content/uploads/2025/12/about-page-hero-600x337.jpg",
+  "<Future at 0x7f15698e8470 state=finished raised HTTPError>": "404 Client Error: Not Found for url: https://sunday-usa.com/wp-content/uploads/2025/12/about-page-hero-1024x576.jpg",
+  "<Future at 0x7f15697cdfa0 state=finished raised HTTPError>": "404 Client Error: Not Found for url: https://sunday-usa.com/wp-content/uploads/2025/12/about-page-hero-1536x864.jpg"
+}

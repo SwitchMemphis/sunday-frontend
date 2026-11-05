@@ -1,0 +1,22 @@
+[
+  {
+    "family": "besley",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/besley/OFL.txt",
+    "included": true
+  },
+  {
+    "family": "ibmplexmono",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/ibmplexmono/OFL.txt",
+    "included": true
+  },
+  {
+    "family": "librebaskerville",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/librebaskerville/OFL.txt",
+    "included": true
+  },
+  {
+    "family": "librefranklin",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/librefranklin/OFL.txt",
+    "included": true
+  }
+]
